@@ -59,6 +59,7 @@
 		28982F3B2F06A38800530C4B /* outer_space_right.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = outer_space_right.jpg; sourceTree = "<group>"; };
 		28982F3C2F06A38800530C4B /* outer_space_top.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = outer_space_top.jpg; sourceTree = "<group>"; };
 		28C9228D2F0211BE007B9B76 /* CubeTextureLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CubeTextureLoader.swift; sourceTree = "<group>"; };
+		28E5F43C2F2C92B4005D5E54 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		28F0C06B2F04D29D0093437D /* Plane.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Plane.swift; sourceTree = "<group>"; };
 		28F0C06D2F04D4EB0093437D /* floor_texture.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = floor_texture.jpg; sourceTree = "<group>"; };
 		28F0C06F2F04FD190093437D /* Texture2DLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Texture2DLoader.swift; sourceTree = "<group>"; };
@@ -159,6 +160,7 @@
 		D91515AD2AF64E990082836E = {
 			isa = PBXGroup;
 			children = (
+				28E5F43C2F2C92B4005D5E54 /* README.md */,
 				D91515B82AF64E990082836E /* Metal 3D */,
 				D91515B72AF64E990082836E /* Products */,
 			);
